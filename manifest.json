@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "dynadot",
+  "binary": "dynadot-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Dynadot.",
+  "display_name_key": "plugin.dynadot-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "dynadot-dns",
+  "provider_aliases": [
+    "dynadot"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

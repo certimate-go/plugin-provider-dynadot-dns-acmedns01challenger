@@ -1,0 +1,10 @@
+{
+  "plugin.dynadot-dns.name": "Dynadot",
+  "plugin.dynadot-dns.description": "通过 Dynadot 完成 ACME DNS-01 验证。",
+  "plugin.dynadot-dns.access.apiKey.label": "Dynadot API Key",
+  "plugin.dynadot-dns.access.apiKey.tooltip": "这是什么？请参阅 <a href=\"https://www.dynadot.com/zh/domain/api-document\" target=\"_blank\">https://www.dynadot.com/zh/domain/api-document</a>",
+  "plugin.dynadot-dns.access.apiKey.placeholder": "请输入 Dynadot API Key",
+  "plugin.dynadot-dns.access.apiSecret.label": "Dynadot API Secret",
+  "plugin.dynadot-dns.access.apiSecret.tooltip": "这是什么？请参阅 <a href=\"https://www.dynadot.com/zh/domain/api-document\" target=\"_blank\">https://www.dynadot.com/zh/domain/api-document</a>",
+  "plugin.dynadot-dns.access.apiSecret.placeholder": "请输入 Dynadot API Secret"
+}

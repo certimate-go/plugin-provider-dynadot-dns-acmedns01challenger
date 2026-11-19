@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "dynadot",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "apiKey",
+        "valueType": "text",
+        "labelKey": "plugin.dynadot-dns.access.apiKey.label",
+        "tooltipKey": "plugin.dynadot-dns.access.apiKey.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.dynadot-dns.access.apiKey.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiSecret",
+        "valueType": "secret",
+        "labelKey": "plugin.dynadot-dns.access.apiSecret.label",
+        "tooltipKey": "plugin.dynadot-dns.access.apiSecret.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.dynadot-dns.access.apiSecret.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

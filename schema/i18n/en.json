@@ -1,0 +1,10 @@
+{
+  "plugin.dynadot-dns.name": "Dynadot",
+  "plugin.dynadot-dns.description": "ACME DNS-01 via Dynadot.",
+  "plugin.dynadot-dns.access.apiKey.label": "Dynadot API key",
+  "plugin.dynadot-dns.access.apiKey.tooltip": "For more information, see <a href=\"https://www.dynadot.com/domain/api-document\" target=\"_blank\">https://www.dynadot.com/domain/api-document</a>",
+  "plugin.dynadot-dns.access.apiKey.placeholder": "Please enter Dynadot API key",
+  "plugin.dynadot-dns.access.apiSecret.label": "Dynadot API secret",
+  "plugin.dynadot-dns.access.apiSecret.tooltip": "For more information, see <a href=\"https://www.dynadot.com/domain/api-document\" target=\"_blank\">https://www.dynadot.com/domain/api-document</a>",
+  "plugin.dynadot-dns.access.apiSecret.placeholder": "Please enter Dynadot API secret"
+}
